@@ -1,0 +1,7 @@
+Pulsar X para mostrar/ocultar el menu
+la mayoria estan animados y pueden mezclarse entre ellos
+
+no mezclables
+  Vortex
+  sunshafts 
+  (estos dos no deben estar activados al mismo tiempo que ningun otro o pueden pasar cosas raras)
